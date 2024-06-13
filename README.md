@@ -1,4 +1,4 @@
-# Sentiment-Analysis-with-NLP CBOW-LSTM-RNN
+# Sentiment Analysis with NLP (CBOW, LSTM, RNN)
 
 
 ## Overview
