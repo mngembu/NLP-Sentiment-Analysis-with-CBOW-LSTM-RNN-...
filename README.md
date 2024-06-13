@@ -48,9 +48,9 @@ Each notebook in this repository demonstrates a unique approach to sentiment ana
 
 
 ## Notebooks
-- **LSTM-RNN-NLP.ipynb**: Implements LSTM RNN for sentiment analysis.
-- **RandomForest-BOW-NLP.ipynb**: Uses Random Forest classifier with Bag of Words.
-- **Word2Vec-ML-DL.ipynb**: Explores CBOW and Skip Grams with both machine learning and deep learning techniques.
+- **Stock News Sentiment Analysis Using LSTM - Deep Learning NLP.ipynb**: Implements LSTM RNN for sentiment analysis.
+- **Stock News Sentiment Analysis Using Machine Learning, NLP - BOW.ipynb**: Uses Random Forest classifier and NLP's Bag of Words.
+- **Stock news sentiment analysis with AvgWord2vec - CBOW- from scratch**: Explores CBOW and Skip Grams with both machine learning and deep learning techniques.
 
 ## Results
 The results from different models are compared to evaluate their performance in predicting stock price movements based on news sentiment. Detailed results and visualizations are available within the respective notebooks.
