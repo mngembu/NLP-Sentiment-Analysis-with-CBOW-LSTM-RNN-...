@@ -35,8 +35,8 @@ Each notebook in this repository demonstrates a unique approach to sentiment ana
 
 1. **Clone the Repository**:
 
-            git clone https://github.com/your-username/ANLP-Sentiment-Analysis-with-CBOW-LSTM-RNN-.git
-            cd ANLP-Sentiment-Analysis-with-CBOW-LSTM-RNN-
+            git clone https://github.com/mngembu/NLP-Sentiment-Analysis-with-CBOW-LSTM-RNN-....git
+            cd NLP-Sentiment-Analysis-with-CBOW-LSTM-RNN-...
 
 2. **Open Jupyter Notebook**:
 
